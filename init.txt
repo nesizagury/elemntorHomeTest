@@ -1,0 +1,5 @@
+install python3.8
+create new virtual python env
+run: pip install requests
+run with python init.py
+run with python main.py
